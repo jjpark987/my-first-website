@@ -1,22 +1,26 @@
+body {
+    background-color: aqua;
+}
+
 h1 {
     text-align: center;
+    font-family: cursive;
+}
+
+.timeline {
+    background-color: blue;
+    padding: 7rem;
+    display: flex;
+    flex-direction: row;
 }
 
 div {
-    float: left;
-    background: yellow;
-    width: 10%;
-    height: 10%;
+    background-color: blueviolet;
+}
+
+h2 {
+    background-color: brown;
+    font-size: small;
     text-align: center;
-    vertical-align: middle;
-}
-
-#sep6, 
-#sep8,
-#sep11 {
-    width: 13%;
-}
-
-h2{
-
+    font-family: cursive;
 }
