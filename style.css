@@ -1,26 +1,20 @@
 body {
-    background-color: aqua;
-}
-
-h1 {
-    text-align: center;
+    background-color: rgb(133, 196, 255);
     font-family: cursive;
+    text-align: center;
 }
 
-.timeline {
-    background-color: blue;
-    padding: 7rem;
-    display: flex;
-    flex-direction: row;
-}
-
-div {
+#class {
     background-color: blueviolet;
 }
 
 h2 {
-    background-color: brown;
     font-size: small;
-    text-align: center;
-    font-family: cursive;
+}
+
+hr {
+    display: block; 
+    overflow: hidden; 
+    border-style: double; 
+    border-width: 8px;
 }
